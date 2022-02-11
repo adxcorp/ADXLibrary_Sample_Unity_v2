@@ -1,13 +1,25 @@
 ﻿<Properties StartupConfiguration="{AE0DC2AA-BB9D-CB46-7697-A3EE8DB73936}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ADXSampleScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ADXLibrary/Internal/iOS/FrameworkWrapper.cs">
     <Files>
-      <File FileName="Assets/ADXSampleScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/ADXSampleScript.cs" Line="29" Column="10" />
+      <File FileName="Assets/ADXLibrary/Internal/iOS/RewardedAdClient.cs" Line="53" Column="1" />
+      <File FileName="Assets/ADXLibrary/Internal/iOS/FrameworkWrapper.cs" Line="44" Column="28" />
+      <File FileName="Assets/ADXLibrary/Internal/iOS/BannerAdClient.cs" Line="1" Column="1" />
+      <File FileName="Assets/ADXLibrary/Internal/iOS/InterstitialAdClient.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ADXLibrary_Sample_Unity_v2" expanded="True">
-            <Node name="Assets" expanded="True" selected="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="ADXLibrary" expanded="True">
+                <Node name="Internal" expanded="True">
+                  <Node name="iOS" expanded="True">
+                    <Node name="AdxSdkClient.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -15,7 +27,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5c63d6be-4c0d-4ced-8c33-213f10a21d6c" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e22090a1-47f5-4c5e-87dc-450be090e0dc" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
