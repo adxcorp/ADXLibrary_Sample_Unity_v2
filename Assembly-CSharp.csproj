@@ -86,7 +86,6 @@
     <Compile Include="Assets\ADXLibrary\Internal\iOS\InterstitialAdClient.cs" />
     <Compile Include="Assets\ADXLibrary\Internal\iOS\RewardedAdClient.cs" />
     <Compile Include="Assets\ADXSampleScript.cs" />
-    <Compile Include="Assets\Script.cs" />
     <None Include="Assets\GoogleMobileAds\link.xml" />
     <None Include="Assets\GoogleMobileAds\GoogleMobileAds_version-6.1.2_manifest.txt" />
     <Reference Include="UnityEngine.Purchasing">

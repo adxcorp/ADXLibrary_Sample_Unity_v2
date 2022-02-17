@@ -133,7 +133,7 @@ public class ADXSampleScript : MonoBehaviour {
     {
         if (bannerAd != null)
         {
-            bannerAd.Destory();
+            bannerAd.Destroy();
             bannerAd = null;
         }
 
@@ -163,7 +163,7 @@ public class ADXSampleScript : MonoBehaviour {
     {
         if (bannerAd != null)
         {
-            bannerAd.Destory();
+            bannerAd.Destroy();
             bannerAd = null;
         }
     }
@@ -172,7 +172,7 @@ public class ADXSampleScript : MonoBehaviour {
     {
         if (interstitialAd != null)
         {
-            interstitialAd.Destory();
+            interstitialAd.Destroy();
             interstitialAd = null;
         }
 
@@ -199,7 +199,7 @@ public class ADXSampleScript : MonoBehaviour {
     {
         if (rewardedAd != null)
         {
-            rewardedAd.Destory();
+            rewardedAd.Destroy();
             rewardedAd = null;
         }
 

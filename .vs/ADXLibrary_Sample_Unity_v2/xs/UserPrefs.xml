@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{AE0DC2AA-BB9D-CB46-7697-A3EE8DB73936}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ADXLibrary/Internal/iOS/FrameworkWrapper.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ADXSampleScript.cs">
     <Files>
-      <File FileName="Assets/ADXSampleScript.cs" Line="29" Column="10" />
-      <File FileName="Assets/ADXLibrary/Internal/iOS/RewardedAdClient.cs" Line="53" Column="1" />
-      <File FileName="Assets/ADXLibrary/Internal/iOS/FrameworkWrapper.cs" Line="44" Column="28" />
-      <File FileName="Assets/ADXLibrary/Internal/iOS/BannerAdClient.cs" Line="1" Column="1" />
-      <File FileName="Assets/ADXLibrary/Internal/iOS/InterstitialAdClient.cs" Line="1" Column="1" />
+      <File FileName="Assets/ADXSampleScript.cs" Line="136" Column="29" />
+      <File FileName="Assets/ADXLibrary/Internal/iOS/RewardedAdClient.cs" />
+      <File FileName="Assets/ADXLibrary/Internal/iOS/FrameworkWrapper.cs" />
+      <File FileName="Assets/ADXLibrary/Internal/iOS/BannerAdClient.cs" />
+      <File FileName="Assets/ADXLibrary/Internal/iOS/InterstitialAdClient.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,11 +14,10 @@
             <Node name="Assets" expanded="True">
               <Node name="ADXLibrary" expanded="True">
                 <Node name="Internal" expanded="True">
-                  <Node name="iOS" expanded="True">
-                    <Node name="AdxSdkClient.cs" selected="True" />
-                  </Node>
+                  <Node name="iOS" expanded="True" />
                 </Node>
               </Node>
+              <Node name="ADXSampleScript.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -27,7 +26,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e22090a1-47f5-4c5e-87dc-450be090e0dc" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b96bd6b5-df5b-4012-b87d-bc9ac1c725d4" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
